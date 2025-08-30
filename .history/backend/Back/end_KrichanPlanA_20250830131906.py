@@ -1,5 +1,5 @@
 from flask import flask 
-import os
+import 
 app = flask(__DATABASE__)
-@app.route("/")import flask as flask
+import flask as flask
 
