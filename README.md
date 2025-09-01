@@ -68,5 +68,11 @@ python -m pip install
 # running python
  python report.py
 
+
+cd "C:\Users\niure\OneDrive\Desktop\Finance tracker\Finance-tracker\frontend"
+
+npm run dev
+
+
 If you have any question just ask me.
  --Kapil
