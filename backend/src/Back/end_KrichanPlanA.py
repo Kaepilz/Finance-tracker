@@ -1,3 +1,4 @@
 from flask import flask 
-from django.conf import settings
+from flask_sqalchemy omport 
 class 
+ 

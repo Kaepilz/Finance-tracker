@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-style: oblique;
+}
+.app{
+    background: linear-gradient(to right, #b98754,  #af5151);
+    color: aliceblue;
+    min-height: 100vh;
+}
+/* background: linear-gradient(to right, #b77e46,  #a43f3f); */
